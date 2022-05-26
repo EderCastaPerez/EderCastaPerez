@@ -1,0 +1,5 @@
+- 👋 Hola mi nombre es @EderCastaPerez
+- 👀 Estoy interesado en seguir aprendiendo mas sobre los lenguajes de programación
+- 🌱 Actualmente estoy aprendiendo python
+- 💞️ Mis conocimientos son de Java, php, mysql, android 
+- Eh usado framework como CodeIgnite, Laravel.
